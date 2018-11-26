@@ -1,0 +1,2 @@
+# jaszi
+wordpress theme
