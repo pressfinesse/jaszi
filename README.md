@@ -12,18 +12,17 @@ Tags: one-column, two-columns, right-sidebar, custom-colors, custom-menu, editor
 Jazsi is a modern but simple responsive theme that is built on Bootstrap 4. Prepackaged with icons and custom media functions.
 
 * Mobile-first, Responsive Layout
-* Custom Colors
 * Post Formats
 * The GPL v2.0 or later license. :) Use it to make something cool.
 
-For more information about DaeDae please go to https://pressfinesse.com/jazsi.
+For more information about Jazsi please go to https://pressfinesse.com/jazsi.
 
 == Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Type in Jazsi in the search form and press the 'Enter' key on your keyboard.
 3. Click on the 'Activate' button to use your new theme right away.
-4. Go to https://pressfinesse.com/daedae for a guide on how to customize this theme.
+4. Go to https://pressfinesse.com/jazsi for a guide on how to customize this theme.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
 == Copyright ==
